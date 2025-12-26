@@ -1,8 +1,7 @@
-### Hi there 👋
-[![](https://github.com/Vivekk0712/Vivekk0712/blob/main/chat.svg)](https://github.com/Vivekk0712)
+<h1 align="center">Hi there 👋</h1>
 
 <h3 align="center">Cloud & AI/ML Engineer | Full Stack Developer | Hackathon Winner 🏆</h3>
-<h4 align="center">B.E. in CSE @ Gopalan College of Engineering | CGPA: 8.0/10.0</h4>
+<h4 align="center">B.E. in CSE @ Gopalan College of Engineering</h4>
 <h4 align="center">AI & Software Engineering Intern @ Novafuze LLP</h4>
 
 <p align="center">
@@ -20,7 +19,7 @@ Motivated and detail-oriented Computer Science student with a passion for innova
 - 🏆 **Hackathon Winner** - KGeN Hackathon (Decode Select) & Multiple Hackathon Participations
 - 🎯 Specializing in **Cloud Infrastructure, AI/ML, Full Stack Development, and System Design**
 - 💡 Working with **Docker, Kubernetes, MCP Servers, RAG, and Vector Databases**
-- 📫 Reach me at: **vivekkashyap0712@gmail.com** | **+91 8850623515**
+- 📫 Reach me at: **vivekkashyap0712@gmail.com**
 - 📍 Location: **Whitefield, Bengaluru-560048**
 ## 🛠️ Tech Stack & Tools
 
@@ -246,18 +245,6 @@ Motivated and detail-oriented Computer Science student with a passion for innova
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Vivekk0712?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-## 💭 Quote
-
-<p align="center">
-  <a href="https://github.com/Vivekk0712/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+AI+systems;Cloud+%2B+AI/ML+Engineer;Full+Stack+Developer;Hackathon+Winner+🏆;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vivekk0712&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</p>
-
----
-
-<p align="center">
-  <i>"Motivated to build innovative solutions that make a positive impact through technology-driven approaches."</i>
 </p>
