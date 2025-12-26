@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Vivek Kashyap</h1>
 
-<h3 align="center">Cloud & AI/ML Engineer | Full Stack Developer | Hackathon Winner 🏆</h3>
+<h3 align="center">Cloud & AI/ML Engineer | Full Stack Developer | Hackathons 🏆</h3>
 <h4 align="center">B.E. in CSE @ Gopalan College of Engineering</h4>
 <h4 align="center">AI & Software Engineering Intern @ Novafuze LLP</h4>
 
