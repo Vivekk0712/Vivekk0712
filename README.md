@@ -125,6 +125,30 @@ Motivated and detail-oriented Computer Science student with a passion for innova
 - **HackHazard** - Built complete project
 - **Vibeathon × Replit** - AgentHive aka VibeML, a multi-agent AutoML platform that automatically trains and evaluates ML models from natural language inputs
 - **NEXATHON'25** - Carbon Nexus, an AI-driven platform for real-time supply-chain carbon tracking using ML-based CO₂ prediction, hotspot detection, Gemini-powered insights, and an interactive React dashboard
+
+## 🌟 Open Source Contributions
+
+### 📝 Kubeflow Pipelines - Documentation Contributor
+**Repository:** [kubeflow/pipelines](https://github.com/kubeflow/pipelines)  
+**PR:** [#12554](https://github.com/kubeflow/pipelines/pull/12554) - Cloud Logging Troubleshooting Guide for Vertex AI
+
+**Contribution Highlights:**
+- 📚 Created comprehensive troubleshooting documentation for Cloud Logging 403 errors on Vertex AI
+- 🔍 Investigated and documented common issues faced by developers using Kubeflow Pipelines with Google Cloud
+- 💡 Provided clear, actionable solutions to help the community resolve Cloud Logging permission issues
+- 🎯 Improved developer experience by making ML pipeline debugging more accessible
+- 🤝 Collaborated with the Kubeflow community to enhance documentation quality
+
+**Impact:** Helping developers worldwide troubleshoot and resolve Cloud Logging issues when deploying ML pipelines on Vertex AI, making the platform more accessible for production ML workloads.
+
+**Technologies:** Kubeflow Pipelines, Google Cloud Platform, Vertex AI, Cloud Logging, MLOps, Technical Documentation
+
+---
+
+<p align="center">
+  <i>💡 Passionate about contributing to open source projects that make ML infrastructure more accessible and developer-friendly!</i>
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
