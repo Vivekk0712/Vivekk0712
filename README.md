@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋, I'm Vivek Kashyap</h1>
 
 <h3 align="center">Cloud & AI/ML Engineer | Full Stack Developer | Hackathon Winner 🏆</h3>
 <h4 align="center">B.E. in CSE @ Gopalan College of Engineering</h4>
@@ -10,20 +10,38 @@
   <a href="https://github.com/Vivekk0712?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Vivekk0712"/></a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Vivekk0712/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Cloud+%2B+AI/ML+Engineer;Full+Stack+Developer;Hackathon+Winner+🏆;Open+Source+Contributor;Building+Scalable+AI+Systems&font=Fira%20Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=20" /></a>
+</p>
+
+<br>
+
 ## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 Motivated and detail-oriented Computer Science student with a passion for innovation and problem-solving. Actively engaged in academic and extracurricular activities that foster critical thinking, teamwork, and leadership. Eager to apply technical knowledge in real-world scenarios and contribute to meaningful projects. Continuously striving to learn, grow, and make a positive impact through technology-driven solutions.
 
+<br>
+
 - 🔭 Currently working as **AI & Software Engineering Intern @ Novafuze LLP** (September 2025 - Present)
-- � Burilding **RAG applications, AI chatbots, and School ERP Systems** with production-grade architecture
+- 🌱 Building **RAG applications, AI chatbots, and School ERP Systems** with production-grade architecture
 - 🏆 **Hackathon Winner** - KGeN Hackathon (Decode Select) & Multiple Hackathon Participations
 - 🎯 Specializing in **Cloud Infrastructure, AI/ML, Full Stack Development, and System Design**
 - 💡 Working with **Docker, Kubernetes, MCP Servers, RAG, and Vector Databases**
 - 📫 Reach me at: **vivekkashyap0712@gmail.com**
 - 📍 Location: **Whitefield, Bengaluru-560048**
+
+<br clear="both">
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
-### 👨‍💻 Programming Languages
+<details open>
+<summary><b>👨‍💻 Programming Languages</b></summary>
+<br>
 
 <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
@@ -33,8 +51,11 @@ Motivated and detail-oriented Computer Science student with a passion for innova
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 </p>
+</details>
 
-### 🧰 Frameworks & Libraries
+<details open>
+<summary><b>🧰 Frameworks & Libraries</b></summary>
+<br>
 
 <p>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
@@ -43,21 +64,25 @@ Motivated and detail-oriented Computer Science student with a passion for innova
     <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="ReactJS" src="https://img.shields.io/badge/React.js-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
+</details>
 
-### 🗄️ Databases & Cloud
+<details open>
+<summary><b>🗄️ Databases & Cloud</b></summary>
+<br>
 
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="RAG" src="https://img.shields.io/badge/RAG-FF6B6B.svg?logo=ai&logoColor=white"></a>
     <a href="#"><img alt="Vector DB" src="https://img.shields.io/badge/Vector_DB-4A90E2.svg?logo=database&logoColor=white"></a>
 </p>
+</details>
 
-### 💻 DevOps & Tools
+<details open>
+<summary><b>💻 DevOps & Tools</b></summary>
+<br>
 
 <p>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
@@ -66,10 +91,12 @@ Motivated and detail-oriented Computer Science student with a passion for innova
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="System Design" src="https://img.shields.io/badge/System_Design-FF6B6B.svg?logo=architecture&logoColor=white"></a>
 </p>
+</details>
 
-### 🤖 AI & ML Technologies
+<details open>
+<summary><b>🤖 AI & ML Technologies</b></summary>
+<br>
 
 <p>
     <a href="#"><img alt="AI Chatbots" src="https://img.shields.io/badge/AI_Chatbots-00D9FF.svg?logo=chatbot&logoColor=white"></a>
@@ -78,125 +105,168 @@ Motivated and detail-oriented Computer Science student with a passion for innova
     <a href="#"><img alt="Google Gemini API" src="https://img.shields.io/badge/Gemini_API-4285F4.svg?logo=google&logoColor=white"></a>
     <a href="#"><img alt="Google Maps API" src="https://img.shields.io/badge/Maps_API-4285F4.svg?logo=google-maps&logoColor=white"></a>
 </p>
+</details>
+
+---
+
 ## 🎯 Core Competencies
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 💼 Professional Skills
-- **Project Management** | **Public Relations** | **Teamwork** | **Time Management**
-- **Leadership** | **Effective Communication** | **Critical Thinking**
+- ✅ **Project Management**
+- ✅ **Public Relations**
+- ✅ **Teamwork**
+- ✅ **Time Management**
+- ✅ **Leadership**
+- ✅ **Effective Communication**
+- ✅ **Critical Thinking**
+
+</td>
+<td width="50%" valign="top">
 
 ### 🔧 Technical Expertise
-- **System Design & Scalable Architecture** - Building production-oriented applications
-- **RAG Applications** - Retrieval-Augmented Generation with vector databases
-- **AI Chatbots & MCP Servers** - Secure, structured database and tool access for AI agents
-- **Containerization** - Docker & Docker Compose for service orchestration
-- **Full Stack Development** - Python Flask backend + React frontend
-- **Cloud-Native Applications** - Microservices and distributed systems
-- **API Development** - REST APIs with clean code practices and modular design
+- 🚀 **System Design & Scalable Architecture**
+- 🤖 **RAG Applications & Vector Databases**
+- 💬 **AI Chatbots & MCP Servers**
+- 🐳 **Containerization (Docker & Compose)**
+- 🌐 **Full Stack Development**
+- ☁️ **Cloud-Native Applications**
+- 🔌 **REST API Development**
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🏆 Hackathon Achievements
 
-### 🥇 KGeN Hackathon Winner (Decode Select)
+<details open>
+<summary><h3>🥇 KGeN Hackathon Winner (Decode Select)</h3></summary>
+
 **Project:** AI Gaming - Fantasy Cricket Chatbot Assistant
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 - **Problem:** Help cricket fans make smarter Fantasy Cricket decisions through an intelligent, conversational assistant
 - **Role:** AI & Full Stack Developer - Built backend using Python Flask and frontend with React
 - **Tech Stack:** Python, Flask, React, Google Gemini API, Google Custom Search JSON API, RAG, Scikit
 - **Impact:** Created a chat-based interface for natural language queries, suggestions, and player analysis
 
-### 🏅 The Great Bengaluru Hackathon
+</details>
+
+<details open>
+<summary><h3>🏅 The Great Bengaluru Hackathon</h3></summary>
+
 **Project:** Smart Peak Hour Demand Balancer for Auto Services (Namma Yatri)
+
 - **Problem:** Solving ride denials and peak hour demand imbalance
 - **Role:** Full Stack Developer - Built backend using Python Flask and frontend with React
 - **Tech Stack:** Python, Flask, React, Google Gemini API, Google Maps API, TensorFlow
 - **Highlights:**
-  - Integrated real-time location and demand heatmaps
-  - Implemented ride priority scoring based on availability and proximity
-  - Designed intelligent routing suggestions to reduce customer wait times
+  - ✨ Integrated real-time location and demand heatmaps
+  - ✨ Implemented ride priority scoring based on availability and proximity
+  - ✨ Designed intelligent routing suggestions to reduce customer wait times
 
-### 🎓 College Project Winner - Timetable Creator App
+</details>
+
+<details open>
+<summary><h3>🎓 College Project Winner - Timetable Creator App</h3></summary>
+
 **🥇 2nd Year College Project Presentation Winner (2025)**
+
 - **Project:** Intelligent timetable generator using exhaustive search and backtracking
 - **Impact:** Reduced manual effort in timetable generation by automating over 90% of the scheduling process
 - **Tech Stack:** Python Flask, MySQL, ReactJS
 
-### 📚 More Hackathons
-- **Colossus Hackathon** - AI-driven Crop disease prediction and management system
-- **GCEM Hackathon** - AI chatbot health coach and nutrition calculator
-- **Jain University (Inceptrix Hackathon)** - Hyperlocal Weather Intelligence + AI Agents For Smart Farming (Full React Native Application with backend)
-- **HackHazard** - Built complete project
-- **Vibeathon × Replit** - AgentHive aka VibeML, a multi-agent AutoML platform that automatically trains and evaluates ML models from natural language inputs
-- **NEXATHON'25** - Carbon Nexus, an AI-driven platform for real-time supply-chain carbon tracking using ML-based CO₂ prediction, hotspot detection, Gemini-powered insights, and an interactive React dashboard
+</details>
+
+<details>
+<summary><h3>📚 More Hackathons (Click to expand)</h3></summary>
+
+- 🌾 **Colossus Hackathon** - AI-driven Crop disease prediction and management system
+- 💪 **GCEM Hackathon** - AI chatbot health coach and nutrition calculator
+- 🌦️ **Jain University (Inceptrix Hackathon)** - Hyperlocal Weather Intelligence + AI Agents For Smart Farming (Full React Native Application with backend)
+- 🔨 **HackHazard** - Built complete project
+- 🤖 **Vibeathon × Replit** - AgentHive aka VibeML, a multi-agent AutoML platform that automatically trains and evaluates ML models from natural language inputs
+- 🌍 **NEXATHON'25** - Carbon Nexus, an AI-driven platform for real-time supply-chain carbon tracking using ML-based CO₂ prediction, hotspot detection, Gemini-powered insights, and an interactive React dashboard
+
+</details>
+
+---
 
 ## 🌟 Open Source Contributions
 
+<table>
+<tr>
+<td width="60%">
+
 ### 📝 Kubeflow Pipelines - Documentation Contributor
+
 **Repository:** [kubeflow/pipelines](https://github.com/kubeflow/pipelines)  
-**PR:** [#12554](https://github.com/kubeflow/pipelines/pull/12554) - Cloud Logging Troubleshooting Guide for Vertex AI
+**PR:** [#12554](https://github.com/kubeflow/pipelines/pull/12554)
 
 **Contribution Highlights:**
 - 📚 Created comprehensive troubleshooting documentation for Cloud Logging 403 errors on Vertex AI
-- 🔍 Investigated and documented common issues faced by developers using Kubeflow Pipelines with Google Cloud
-- 💡 Provided clear, actionable solutions to help the community resolve Cloud Logging permission issues
-- 🎯 Improved developer experience by making ML pipeline debugging more accessible
-- 🤝 Collaborated with the Kubeflow community to enhance documentation quality
+- 🔍 Investigated and documented common issues faced by developers
+- 💡 Provided clear, actionable solutions for Cloud Logging permission issues
+- 🎯 Improved developer experience for ML pipeline debugging
+- 🤝 Collaborated with the Kubeflow community
 
-**Impact:** Helping developers worldwide troubleshoot and resolve Cloud Logging issues when deploying ML pipelines on Vertex AI, making the platform more accessible for production ML workloads.
+**Technologies:** Kubeflow Pipelines, Google Cloud Platform, Vertex AI, Cloud Logging, MLOps
 
-**Technologies:** Kubeflow Pipelines, Google Cloud Platform, Vertex AI, Cloud Logging, MLOps, Technical Documentation
+</td>
+<td width="40%">
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100%">
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <i>💡 Passionate about contributing to open source projects that make ML infrastructure more accessible and developer-friendly!</i>
 </p>
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <a href="https://github.com/Vivekk0712/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=Vivekk0712&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Vivek's github-readme-stats"/></picture></a>
-  <a href="https://github.com/Vivekk0712/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Vivekk0712&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vivek's streak" src="https://streak-stats.demolab.com/?user=Vivekk0712&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Vivek's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Vivekk0712&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</p>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 ## 💼 Professional Experience
 
 ### 🚀 AI & Software Engineering Intern @ Novafuze LLP
 **Duration:** September 2025 - Present
 
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
+
 **Key Responsibilities & Achievements:**
-- Gaining hands-on experience in **system design and scalable architecture**, working on real-world, production-oriented applications
-- Designed and developed **RAG (Retrieval-Augmented Generation) applications and AI chatbots**, integrating vector databases and document-based knowledge retrieval
-- Worked with **MCP (Model Context Protocol) servers** to enable secure, structured, and efficient database and tool access for AI agents
-- Built and deployed applications using **Docker and Docker Compose**, understanding containerization, service orchestration, and environment isolation
-- Currently contributing to a **School ERP System**, integrating an AI-powered RAG chatbot for intelligent query handling and assistance
-- Implemented core ERP features including **student & staff management, payments integration, SMS, WhatsApp, and Gmail notifications**
-- Developed backend workflows for **database fetching and automation via MCP servers**, ensuring reliable and scalable data access
-- Collaborating in an **agile environment**, following **clean code practices, API-based architectures, and modular design principles**
+- 🏗️ Gaining hands-on experience in **system design and scalable architecture**
+- 🤖 Designed and developed **RAG applications and AI chatbots** with vector databases
+- 🔐 Worked with **MCP servers** for secure database and tool access for AI agents
+- 🐳 Built and deployed applications using **Docker and Docker Compose**
+- 🏫 Contributing to a **School ERP System** with AI-powered RAG chatbot
+- 📊 Implemented core ERP features: student & staff management, payments, SMS, WhatsApp, Gmail notifications
+- 🔄 Developed backend workflows for database fetching and automation via MCP servers
+- 🤝 Collaborating in an **agile environment** with clean code practices
 
 **Tech Stack:** Python, Flask, Docker, Docker Compose, RAG, Vector Databases, MCP, MySQL, REST APIs, AI Chatbots
 
+<br clear="both">
+
+---
+
 ## 💻 My Favorite Tools and Technologies
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<div align="center">
+<table>
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
       <br>Python
     </td>
     <td align="center" width="96">
@@ -252,23 +322,28 @@ Motivated and detail-oriented Computer Science student with a passion for innova
   </tr>
 </table>
 </div>
-## 📫 Connect With Me
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Vivekk0712"><img width="32px" alt="GitHub" title="GitHub" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:vivekkashyap0712@gmail.com"><img width="32px" alt="Email" title="Email" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/vivek-kashyap"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yvirc18.png"/></a>
+  <a href="https://github.com/Vivekk0712"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vivekk0712&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vivek's GitHub Stats" /></a>
+  <a href="https://github.com/Vivekk0712"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekk0712&theme=tokyonight&hide_border=true" alt="Vivek's Streak Stats" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Vivekk0712?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Vivekk0712?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Vivekk0712?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Vivekk0712?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/Vivekk0712"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekk0712&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" /></a>
+  <a href="https://github.com/Vivekk0712"><img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivekk0712&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vivekk0712&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Vivekk0712&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
 </p>
+
+<p align="center">
+  <i>💡 Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+</p>
+
+---
+
