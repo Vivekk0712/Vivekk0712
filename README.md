@@ -329,35 +329,22 @@ Motivated and detail-oriented Computer Science student with a passion for innova
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Vivekk0712&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  width="48%"
-/>
-
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=Vivekk0712&theme=tokyonight&hide_border=true"
-  width="48%"
-/>
-
 </div>
 
-<br/>
-
 <div align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekk0712&layout=compact&theme=tokyonight&hide_border=true"
-  width="45%"
-/>
-
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivekk0712&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
-<p align="center">
-  <i>💡 Top languages reflect public repositories only and do not represent overall skill or experience.</i>
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Vivekk0712&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+    width="60%"
+  />
+</div>
+
+  <i>💡 Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </p>
-
 
 ---
 
