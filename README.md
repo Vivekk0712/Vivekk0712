@@ -325,21 +325,35 @@ Motivated and detail-oriented Computer Science student with a passion for innova
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/Vivekk0712"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vivekk0712&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vivek's GitHub Stats" /></a>
-  <a href="https://github.com/Vivekk0712"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekk0712&theme=tokyonight&hide_border=true" alt="Vivek's Streak Stats" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Vivekk0712&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-<p align="center">
-  <a href="https://github.com/Vivekk0712"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekk0712&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" /></a>
-  <a href="https://github.com/Vivekk0712"><img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivekk0712&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" /></a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vivekk0712&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vivekk0712&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Vivek's GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekk0712&theme=tokyonight&hide_border=true" alt="Vivek's Streak Stats" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekk0712&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Vivekk0712&theme=tokyonight&hide_border=true" alt="Contribution Stats" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivekk0712&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true&custom_title=Vivek%20Suryawanshi%20Kashyap's%20Contribution%20Graph" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vivekk0712&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="98%" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vivekk0712&theme=tokyonight&hide_border=true&layout=compact" alt="Coding Time Stats" />
+</div>
 
 <p align="center">
   <i>💡 Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
