@@ -336,7 +336,7 @@ Motivated and detail-oriented Computer Science student with a passion for innova
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekk0712&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=Vivekk0712&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <p align="center">
