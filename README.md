@@ -20,24 +20,9 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com
-    ?lines=Cloud+%2B+AI%2FML+Engineer
-    ;Full+Stack+Developer
-    ;Hackathon+Winner
-    ;Open+Source+Contributor
-    ;Building+Scalable+AI+Systems
-    &font=Fira+Code
-    &center=true
-    &width=650
-    &height=50
-    &color=f75c7e
-    &vCenter=true
-    &pause=1000
-    &size=20"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+%2B+AI%2FML+Engineer;Full+Stack+Developer;Hackathon+Winner;Open+Source+Contributor;Building+Scalable+AI+Systems&font=Fira+Code&center=true&width=650&height=50&color=f75c7e&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
 </p>
+
 
 <br>
 
