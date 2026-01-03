@@ -1,21 +1,46 @@
 <h1 align="center">Hi there 👋, I'm Vivek Kashyap</h1>
 
-<h3 align="center">Cloud & AI/ML Engineer | Full Stack Developer | Hackathons 🏆</h3>
+<h3 align="center">
+  Cloud & AI/ML Engineer | Full Stack Developer | Hackathons
+</h3>
+
 <h4 align="center">B.E. in CSE @ Gopalan College of Engineering</h4>
 <h4 align="center">AI & Software Engineering Intern @ Novafuze LLP</h4>
 
 <p align="center">
-  <a href="https://github.com/Vivekk0712"><img src="https://img.shields.io/github/followers/Vivekk0712?label=Follow&style=social" alt="GitHub followers"></a>
-  <a href="https://github.com/Vivekk0712?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-blue" alt="Repositories"></a>
-  <a href="https://github.com/Vivekk0712?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Vivekk0712"/></a>
+  <a href="https://github.com/Vivekk0712">
+    <img src="https://img.shields.io/github/followers/Vivekk0712?label=Follow&style=social" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/Vivekk0712?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-Explore-blue" alt="Repositories">
+  </a>
+  <a href="https://github.com/Vivekk0712">
+    <img src="https://img.shields.io/github/stars/Vivekk0712?label=Stars&style=social" alt="Total GitHub stars">
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Vivekk0712/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Cloud+%2B+AI/ML+Engineer;Full+Stack+Developer;Hackathon+Winner+🏆;Open+Source+Contributor;Building+Scalable+AI+Systems&font=Fira%20Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=20" /></a>
+  <img
+    src="https://readme-typing-svg.demolab.com
+    ?lines=Cloud+%2B+AI%2FML+Engineer
+    ;Full+Stack+Developer
+    ;Hackathon+Winner
+    ;Open+Source+Contributor
+    ;Building+Scalable+AI+Systems
+    &font=Fira+Code
+    &center=true
+    &width=650
+    &height=50
+    &color=f75c7e
+    &vCenter=true
+    &pause=1000
+    &size=20"
+    alt="Typing SVG"
+  />
 </p>
 
 <br>
+
 
 ## 🚀 About Me
 
