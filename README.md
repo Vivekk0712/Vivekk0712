@@ -85,8 +85,9 @@ Motivated and detail-oriented Computer Science student with a passion for innova
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="RAG" src="https://img.shields.io/badge/RAG-FF6B6B.svg?logo=ai&logoColor=white"></a>
     <a href="#"><img alt="Vector DB" src="https://img.shields.io/badge/Vector_DB-4A90E2.svg?logo=database&logoColor=white"></a>
+    <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"></a>
 </p>
 </details>
 
@@ -110,13 +111,37 @@ Motivated and detail-oriented Computer Science student with a passion for innova
 <br>
 
 <p>
+    <!-- Core AI -->
     <a href="#"><img alt="AI Chatbots" src="https://img.shields.io/badge/AI_Chatbots-00D9FF.svg?logo=chatbot&logoColor=white"></a>
-    <a href="#"><img alt="MCP" src="https://img.shields.io/badge/MCP-4A90E2.svg?logo=protocol&logoColor=white"></a>
-    <a href="#"><img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-009688.svg?logo=api&logoColor=white"></a>
-    <a href="#"><img alt="Google Gemini API" src="https://img.shields.io/badge/Gemini_API-4285F4.svg?logo=google&logoColor=white"></a>
-    <a href="#"><img alt="Google Maps API" src="https://img.shields.io/badge/Maps_API-4285F4.svg?logo=google-maps&logoColor=white"></a>
+    <a href="#"><img alt="LLMs" src="https://img.shields.io/badge/LLMs-8E44AD.svg?logo=openai&logoColor=white"></a>
+    <a href="#"><img alt="RAG" src="https://img.shields.io/badge/RAG-FF6B6B.svg?logo=ai&logoColor=white"></a>
+    <a href="#"><img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt_Engineering-F39C12.svg?logo=prompt&logoColor=white"></a>
+    <!-- ML / DL -->
+    <a href="#"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-2ECC71.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="Deep Learning" src="https://img.shields.io/badge/Deep_Learning-1ABC9C.svg?logo=neuralnetwork&logoColor=white"></a>
+    <a href="#"><img alt="NLP" src="https://img.shields.io/badge/NLP-3498DB.svg?logo=language&logoColor=white"></a>
+    <a href="#"><img alt="Computer Vision" src="https://img.shields.io/badge/Computer_Vision-9B59B6.svg?logo=opencv&logoColor=white"></a>
+    <!-- Frameworks -->
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"></a>
+    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white"></a>
+    <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white"></a>
 </p>
 </details>
+
+<details open>
+<summary><b>🔌 APIs & AI Infrastructure</b></summary>
+<br>
+
+<p>
+    <a href="#"><img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-009688.svg?logo=api&logoColor=white"></a>
+    <a href="#"><img alt="Google Gemini API" src="https://img.shields.io/badge/Gemini_API-4285F4.svg?logo=google&logoColor=white"></a>
+    <a href="#"><img alt="MCP" src="https://img.shields.io/badge/MCP-4A90E2.svg?logo=protocol&logoColor=white"></a>
+    <a href="#"><img alt="AutoML" src="https://img.shields.io/badge/AutoML-34495E.svg?logo=automation&logoColor=white"></a>
+    <a href="#"><img alt="Vector Search" src="https://img.shields.io/badge/Vector_Search-4A90E2.svg?logo=database&logoColor=white"></a>
+</p>
+</details>
+
+
 
 ---
 
