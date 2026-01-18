@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Vivek Kashyap</h1>
 
 <h3 align="center">
-  Cloud & AI/ML Engineer | Full Stack Developer | Hackathons
+  Cloud & AI Engineer | Full Stack Developer | Hackathons
 </h3>
 
 <h4 align="center">B.E. in CSE @ Gopalan College of Engineering</h4>
