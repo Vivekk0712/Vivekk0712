@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 🧑‍💻, I'm Vivek Kashyap</h1>
+<h1 align="center">Hi there 🧑🏻‍💻, I'm Vivek Kashyap</h1>
 
 <h3 align="center">
   Cloud & AI Engineer | Full Stack Developer | Hackathons
