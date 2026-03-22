@@ -383,13 +383,6 @@ Motivated and detail-oriented Computer Science student with a passion for innova
     width="60%"
   />
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/38bdae/Vivekk0712" alt="GitHub Contribution Calendar" width="80%" />
-</div>
-
 <br>
 
 
