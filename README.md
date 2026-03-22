@@ -384,6 +384,15 @@ Motivated and detail-oriented Computer Science student with a passion for innova
   />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/38bdae/Vivekk0712" alt="GitHub Contribution Calendar" width="80%" />
+</div>
+
+<br>
+
+<p align="center">
   <i>💡 Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </p>
 
