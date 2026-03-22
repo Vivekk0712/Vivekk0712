@@ -385,6 +385,15 @@ Motivated and detail-oriented Computer Science student with a passion for innova
 </div>
 <br>
 
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Vivekk0712&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+    width="60%"
+  />
+</div>
+<br>
+
 
 ---
 
