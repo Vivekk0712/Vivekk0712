@@ -4,8 +4,6 @@
   AI Engineer | Passionate builder | 🐟🐠🐟🐠🐟
 </h3>
 
-<h4 align="center">B.E. in CSE @ Gopalan College of Engineering</h4>
-
 <p align="center">
   <a href="https://github.com/Vivekk0712">
     <img src="https://img.shields.io/github/followers/Vivekk0712?label=Follow&style=social" alt="GitHub followers">
