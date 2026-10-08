@@ -5,7 +5,6 @@
 </h3>
 
 <h4 align="center">B.E. in CSE @ Gopalan College of Engineering</h4>
-<h4 align="center">AI & Software Engineering Intern @ Novafuze LLP</h4>
 
 <p align="center">
   <a href="https://github.com/Vivekk0712">
